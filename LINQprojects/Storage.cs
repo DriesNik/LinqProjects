@@ -74,7 +74,7 @@ namespace LINQprojects
             foreach (char Letter in Sentance)
             {
                 Words.Add(Letter.ToString());
-                //Console.WriteLine(Letter.ToString());
+                ///Console.WriteLine(Letter.ToString());
             }
             var query = Words.GroupBy(x => x[0]);
             foreach(var letter in query)
