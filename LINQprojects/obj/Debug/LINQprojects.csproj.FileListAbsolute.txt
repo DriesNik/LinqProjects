@@ -1,0 +1,6 @@
+c:\users\nik d\documents\visual studio 2015\Projects\LINQprojects\LINQprojects\bin\Debug\LINQprojects.exe.config
+c:\users\nik d\documents\visual studio 2015\Projects\LINQprojects\LINQprojects\bin\Debug\LINQprojects.exe
+c:\users\nik d\documents\visual studio 2015\Projects\LINQprojects\LINQprojects\bin\Debug\LINQprojects.pdb
+c:\users\nik d\documents\visual studio 2015\Projects\LINQprojects\LINQprojects\obj\Debug\LINQprojects.csprojResolveAssemblyReference.cache
+c:\users\nik d\documents\visual studio 2015\Projects\LINQprojects\LINQprojects\obj\Debug\LINQprojects.exe
+c:\users\nik d\documents\visual studio 2015\Projects\LINQprojects\LINQprojects\obj\Debug\LINQprojects.pdb
